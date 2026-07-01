@@ -1,3 +1,4 @@
+![Dashboard Preview](Dashboard 1.png)
 # Tech Salary Dashboard 
 
 An interactive Tableau dashboard analyzing compensation, 
