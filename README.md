@@ -1,4 +1,5 @@
-![Dashboard Preview](Dashboard 1.png)
+<img width="2400" height="1600" alt="Dashboard 1" src="https://github.com/user-attachments/assets/48cfaa0b-f791-428f-aa3a-820b8d770470" />
+
 # Tech Salary Dashboard 
 
 An interactive Tableau dashboard analyzing compensation, 
